@@ -1,0 +1,40 @@
+C:\Users\BERKAH\AppData\Local\Temporary Projects\SIMTITIS\bin\Debug\SIMTITIS.exe
+C:\Users\BERKAH\AppData\Local\Temporary Projects\SIMTITIS\bin\Debug\SIMTITIS.pdb
+C:\Users\BERKAH\AppData\Local\Temporary Projects\SIMTITIS\bin\Debug\SIMTITIS.xml
+C:\Users\BERKAH\AppData\Local\Temporary Projects\SIMTITIS\obj\x86\Debug\Interop.FlexCodeSDK.dll
+C:\Users\BERKAH\AppData\Local\Temporary Projects\SIMTITIS\obj\x86\Debug\SIMTITIS.vbproj.ResolveComReference.cache
+C:\Users\BERKAH\AppData\Local\Temporary Projects\SIMTITIS\obj\x86\Debug\SIMTITIS.TransaksiForm.resources
+C:\Users\BERKAH\AppData\Local\Temporary Projects\SIMTITIS\obj\x86\Debug\SIMTITIS.LoginForm.resources
+C:\Users\BERKAH\AppData\Local\Temporary Projects\SIMTITIS\obj\x86\Debug\SIMTITIS.Resources.resources
+C:\Users\BERKAH\AppData\Local\Temporary Projects\SIMTITIS\obj\x86\Debug\SIMTITIS.vbproj.GenerateResource.Cache
+C:\Users\BERKAH\AppData\Local\Temporary Projects\SIMTITIS\obj\x86\Debug\SIMTITIS.exe
+C:\Users\BERKAH\AppData\Local\Temporary Projects\SIMTITIS\obj\x86\Debug\SIMTITIS.xml
+C:\Users\BERKAH\AppData\Local\Temporary Projects\SIMTITIS\obj\x86\Debug\SIMTITIS.pdb
+C:\Users\BERKAH\Documents\Visual Studio 2010\SIMTITIS\SIMTITIS\obj\x86\Debug\Interop.FlexCodeSDK.dll
+C:\Users\BERKAH\Documents\Visual Studio 2010\SIMTITIS\SIMTITIS\obj\x86\Debug\SIMTITIS.vbproj.ResolveComReference.cache
+C:\Users\BERKAH\Documents\Visual Studio 2010\SIMTITIS\SIMTITIS\obj\x86\Debug\SIMTITIS.exe
+C:\Users\BERKAH\Documents\Visual Studio 2010\SIMTITIS\SIMTITIS\obj\x86\Debug\SIMTITIS.xml
+C:\Users\BERKAH\Documents\Visual Studio 2010\SIMTITIS\SIMTITIS\obj\x86\Debug\SIMTITIS.pdb
+C:\Users\BERKAH\Documents\Visual Studio 2010\SIMTITIS\SIMTITIS\bin\Debug\SIMTITIS.exe
+C:\Users\BERKAH\Documents\Visual Studio 2010\SIMTITIS\SIMTITIS\bin\Debug\SIMTITIS.pdb
+C:\Users\BERKAH\Documents\Visual Studio 2010\SIMTITIS\SIMTITIS\bin\Debug\SIMTITIS.xml
+C:\Users\BERKAH\Documents\Visual Studio 2010\SIMTITIS\SIMTITIS\obj\x86\Debug\SIMTITIS.TransaksiForm.resources
+C:\Users\BERKAH\Documents\Visual Studio 2010\SIMTITIS\SIMTITIS\obj\x86\Debug\SIMTITIS.LoginForm.resources
+C:\Users\BERKAH\Documents\Visual Studio 2010\SIMTITIS\SIMTITIS\obj\x86\Debug\SIMTITIS.Resources.resources
+C:\Users\BERKAH\Documents\Visual Studio 2010\SIMTITIS\SIMTITIS\obj\x86\Debug\SIMTITIS.vbproj.GenerateResource.Cache
+D:\abu\project\kantor\VS2010\SIMTITIS\SIMTITIS\obj\x86\Debug\Interop.FlexCodeSDK.dll
+D:\abu\project\kantor\VS2010\SIMTITIS\SIMTITIS\obj\x86\Debug\SIMTITIS.vbproj.ResolveComReference.cache
+D:\abu\project\kantor\VS2010\SIMTITIS\SIMTITIS\obj\x86\Debug\SIMTITIS.exe
+D:\abu\project\kantor\VS2010\SIMTITIS\SIMTITIS\obj\x86\Debug\SIMTITIS.xml
+D:\abu\project\kantor\VS2010\SIMTITIS\SIMTITIS\obj\x86\Debug\SIMTITIS.pdb
+D:\abu\project\kantor\VS2010\SIMTITIS\SIMTITIS\bin\Debug\SIMTITIS.exe
+D:\abu\project\kantor\VS2010\SIMTITIS\SIMTITIS\bin\Debug\SIMTITIS.pdb
+D:\abu\project\kantor\VS2010\SIMTITIS\SIMTITIS\bin\Debug\SIMTITIS.xml
+D:\abu\project\kantor\VS2010\SIMTITIS\SIMTITIS\bin\Debug\MySql.Data.dll
+D:\abu\project\kantor\VS2010\SIMTITIS\SIMTITIS\bin\Debug\MySql.Data.xml
+D:\abu\project\kantor\VS2010\SIMTITIS\SIMTITIS\obj\x86\Debug\SIMTITIS.vbprojResolveAssemblyReference.cache
+D:\abu\project\kantor\VS2010\SIMTITIS\SIMTITIS\obj\x86\Debug\SIMTITIS.TransaksiForm.resources
+D:\abu\project\kantor\VS2010\SIMTITIS\SIMTITIS\obj\x86\Debug\SIMTITIS.LoginForm.resources
+D:\abu\project\kantor\VS2010\SIMTITIS\SIMTITIS\obj\x86\Debug\SIMTITIS.Resources.resources
+D:\abu\project\kantor\VS2010\SIMTITIS\SIMTITIS\obj\x86\Debug\SIMTITIS.vbproj.GenerateResource.Cache
+D:\abu\project\kantor\VS2010\SIMTITIS\SIMTITIS\bin\Debug\Bunifu_UI_v1.52.dll
